@@ -93,3 +93,28 @@ ASCII, 확장 ASCII 코드
 =getch()-48 의 48은
 -> '0' = 30h = 48 문자 숫자 기억하기
 
+1.chat gpt 써서 문제확인하기
+
+2.docs.oracle.com/en/ 들어가서 확인하기
+-> java technical documation->java api documation -> search 
+
+srand(time(NULL)); -> srand(1); 
+time(NULL)-> 현재 시간에 따라 랜덤함수 정수가 정해지므로 실행때 마다 결과가 달라진다.
+
+prototype signiture 
+-> prototype은 int printf( , )이고 int를 뺀 printf( , )를 signiture라 부른다.
+int abc , double abc 를 오버로딩할떄 signiture 가 같으므로 보지않는다
+
+if (lotto[i] == lotto[j])
+ {
+ i--;
+ break;
+-> 같은게 나오면 한번 더 돌리게 해준다.
+
+ doublesum(intcount, ...); <- 매개변수
+
+{
+ printf("합계= %lf\n", sum(2, 10.5, 20.23)); <- 전달값
+
+
+
