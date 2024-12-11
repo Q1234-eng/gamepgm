@@ -1,21 +1,21 @@
-제작 - 17
-맵 제작
-player 움직임 구현
-player 체력 구현
-player 애니메이션 구현
-player 공격 구현
-bullet 데미지 구현
-enemy 움직임 구현
-enemy 체력 구현
-enemy ai 구현
-enemy 애니메이션 구현
-enemy 공격 구현
-enemy 스폰 풀 구현
-player 체력 ui 구현
-gameover ui 제작과 restart 기능 구현
-player 사격 사운드 구현
-게임배경음악 구현
-게임 시작 메뉴 구현 및 start 버튼 구현
+## 제작 - 17
+ -맵 제작
+ -player 움직임 구현
+ -player 체력 구현
+ -player 애니메이션 구현
+ -player 공격 구현
+ -bullet 데미지 구현
+ -enemy 움직임 구현
+ -enemy 체력 구현
+ -enemy ai 구현
+ -enemy 애니메이션 구현
+ -enemy 공격 구현
+ -enemy 스폰 풀 구현
+ -player 체력 ui 구현
+ -gameover ui 제작과 restart 기능 구현
+ -player 사격 사운드 구현
+ -게임배경음악 구현
+ -게임 시작 메뉴 구현 및 start 버튼 구현
 
 코드 정리
 -player.cs >> player 이동, 체력, 공격, 구현, 플레이어 상태관련 UI, 사망사운드와 애니메이션(작동 x), 공격 사운드
