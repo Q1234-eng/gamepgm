@@ -1,5 +1,12 @@
 # 제작 내용
 
+
+### 시연 영상
+-**`play`**
+-[play](https://youtu.be/gekN1plq25I)
+
+---
+
 ### 구현 목록
 - **Player 기능 구현**
   - Player 움직임 구현
